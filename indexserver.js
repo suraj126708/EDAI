@@ -12,7 +12,7 @@ const port = 3000;
 
 // Set view engine to EJS
 app.set("view engine", "ejs");
-app.set("views", path.join(__dirname, "views"));
+app.set("views", path.join(__dirname, "docs"));
 
 // Middleware
 app.use(express.static("public"));
