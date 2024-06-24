@@ -99,9 +99,3 @@ function startCountingWhenVisible() {
 
 // Call the function when the document is loaded
 document.addEventListener("DOMContentLoaded", startCountingWhenVisible);
-
-document
-  .getElementById("donateButton")
-  .addEventListener("click", function (event) {
-    alert("you Don't have please Login First !!");
-  });
