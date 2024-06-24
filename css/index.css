@@ -7,6 +7,16 @@ body {
   background-color: rgb(252, 245, 255) !important ;
 }
 
+/* loader */
+
+#loader {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #ffffff url(../img/loader.svg) no-repeat center;
+  z-index: 999899;
+}
+
 .contact {
   width: 100%;
   height: 40px;

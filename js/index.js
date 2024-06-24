@@ -1,3 +1,11 @@
+//loader
+
+var preloader = document.getElementById("loader");
+
+function myloader() {
+  preloader.style.display = "none";
+}
+
 // slider
 
 var slideIndex = 0;
