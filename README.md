@@ -39,10 +39,6 @@ node app.js
 
 Open your browser and go to `http://localhost:3000` to view the website.
 
-## 📸 Screenshots
-
-> *(Add screenshots here to visually showcase the website's key pages and flow)*
-
 ## 🤝 Contributions
 
 This project was developed as part of a team initiative with 6 members from VIT Pune, focusing on real-world impact through tech.
